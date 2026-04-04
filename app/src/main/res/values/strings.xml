@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">FlightsApp</string>
+    <string name="logo_text">AIRLINK</string>
+    <string name="email_label">Correo</string>
+    <string name="email_placeholder">ejemplo@correo.com</string>
+    <string name="password_label">Contraseña</string>
+    <string name="password_placeholder">********</string>
+    <string name="forgot_password">Olvide mi contraseña</string>
+    <string name="login_button_text">Login</string>
+    <string name="continue_with">O Continua Con</string>
+    <string name="login_google">Google</string>
+    <string name="login_apple">Apple</string>
+    <string name="no_account">¿No tienes una cuenta? </string>
+    <string name="login_register">Registrate</string>
+    <string name="terms_of_service">Condiciones de servicio</string>
+    <string name="privacy_policy">Política de privacidad</string>
 </resources>
